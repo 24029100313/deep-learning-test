@@ -16,6 +16,7 @@ deep-learning-study/
 ├── chapter01-introduction/     # 第一章：介绍
 ├── chapter02-preliminaries/    # 第二章：预备知识
 │   └── tensor_basics.py       # 张量操作基础
+│   └── 
 ├── chapter03-linear-networks/  # 第三章：线性神经网络
 ├── utils/                     # 工具函数
 ├── data/                      # 数据集
@@ -49,8 +50,8 @@ code .
 
 ### 第二章：预备知识
 - [x] 张量操作基础 (`tensor_basics.py`)
-- [ ] 数据预处理 (`data_preprocessing.py`)
-- [ ] 线性代数 (`linear_algebra.py`)
+- [x] 数据预处理 (`data_preprocessing.py`)
+- [x] 线性代数 (`linear_algebra.py`)
 - [ ] 微积分 (`calculus.py`)
 - [ ] 自动微分 (`autograd.py`)
 
